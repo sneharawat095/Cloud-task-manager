@@ -1,0 +1,12 @@
+{
+  "name": "cloud-task-manager",
+  "version": "1.0.0",
+  "description": "Cloud Task Manager App",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^4.18.2",
+    "nano": "^11.0.6",
+    "uuid": "^8.3.2"
+  }
+}
